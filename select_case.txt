@@ -1,0 +1,8 @@
+SELECT campo ,campo2,
+CASE 
+   WHEN eval_1 THEN resultado_1
+   WHEN eval_2 THEN resultado_2
+      ...
+   WHEN value_n THEN resultado_n
+   ELSE resultado
+END AS ValorResultado;

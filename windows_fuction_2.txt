@@ -1,0 +1,7 @@
+Tipos de funciones de Windows
+Funciones de Windows agregadas
+SUM(), MAX(), MIN(), AVG(). COUNT()
+Funciones de clasificación de Windows
+RANK(), DENSE_RANK(), ROW_NUMBER(), NTILE()
+Funciones de valores de Windows
+LAG(), LEAD(), FIRST_VALUE(), LAST_VALUE()
